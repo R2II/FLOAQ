@@ -118,13 +118,13 @@
         "url": "https://fonts.googleapis.com/css?family=Oswald:200,300,400,500,600,700"
       }
     ],
-    "favicon": "@PROJECT_PATH@/assets/images/e20678712e9967d4ad4d0bb421fc0c5a-copy-128x128.png",
+    "favicon": "@PROJECT_PATH@/assets/images/220px-blue-circle-logo.svg-128x128.png",
     "noImageResize": "",
-    "google-analytics": "<script type=\"text/javascript\">\r\n  window._mfq = window._mfq || [];\r\n  (function() {\r\n    var mf = document.createElement(\"script\");\r\n    mf.type = \"text/javascript\"; mf.async = true;\r\n    mf.src = \"//cdn.mouseflow.com/projects/a85762d0-96cc-4f2b-b287-6a9b050c47f7.js\";\r\n    document.getElementsByTagName(\"head\")[0].appendChild(mf);\r\n  })();\r\n</script>",
+    "google-analytics": "<script type=\"text/javascript\">\r\n    window._mfq = window._mfq || [];\r\n    (function() {\r\n        var mf = document.createElement(\"script\");\r\n        mf.type = \"text/javascript\"; mf.async = true;\r\n        mf.src = \"//cdn.mouseflow.com/projects/a85762d0-96cc-4f2b-b287-6a9b050c47f7.js\";\r\n        document.getElementsByTagName(\"head\")[0].appendChild(mf);\r\n    })();\r\n</script>",
     "cookiesAlert": "",
     "gdpr": "",
     "siteUrl": "",
-    "uniqCompNum": 5,
+    "uniqCompNum": 8,
     "versionPublish": "4.8.2",
     "screenshot": "screenshot.png",
     "sitemapSwitcherAuto": "on"
